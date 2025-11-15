@@ -13,5 +13,5 @@
 ## Atividades
 - [X] [Atividade 03 - Tabelas](tabelas.md)
 - [X] [Atividade 04 - Cards](cards.md)
-- [ ] [Atividade 05 - landing page](landingpage.md)
-- [ ] [Atividade 06](replica.md)
+- [X] [Atividade 05 - landing page](landingpage.md)
+- [X] [Atividade 06](replica.md)
